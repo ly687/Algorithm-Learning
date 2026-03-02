@@ -5,14 +5,13 @@
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
-      "preLaunchTask": "g++: build active file",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "${fileDirname}",
-      "program": "d:/cs-self-learning-master/Algorithm-Learning/practice/codeforces/problems/build/Debug/outDebug.exe",
+      "cwd": "d:/cs-self-learning-master/Algorithm-Learning/practice/codeforces/problems",
+      "program": "d:/cs-self-learning-master/Algorithm-Learning/practice/codeforces/problems/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
+      "miDebuggerPath": "D:/VSCODE/TDM-GCC-64/bin/gdb.exe",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
