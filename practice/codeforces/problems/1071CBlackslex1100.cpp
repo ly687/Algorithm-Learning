@@ -33,15 +33,6 @@ void solve() {
 
     }
 
-
-
-
-
-
-
-
-
-
 int main() {
     long long t;
     cin >> t;
